@@ -35,5 +35,5 @@ DHCP stands for Dynamic Host Configuration Protocol. It is used when connecting 
 1) DHCP Discover: if the device has not been manually assigned an IP address, it sends a request on the network trying to reach out a DHCP server
 2) DHCP Offer:    the DHCP server responds with an IP address for the device to use
 3) DHCP Request:  the device replies to the server, confirming the use of the IP address
-4) DHCP ACK:      the DCHCO server acknowledges the use of the IP address by the device
+4) DHCP ACK:      the DHCP server acknowledges the use of the IP address by the device
 
