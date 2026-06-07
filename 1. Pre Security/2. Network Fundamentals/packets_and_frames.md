@@ -33,7 +33,6 @@ sequenceDiagram
     Note left of R: And here is my acknowledgment number
     I-->>R: ACK
 
-
     deactivate I
     deactivate R
 ```

@@ -16,9 +16,9 @@ This layer focuses on the physical addressing of the transmission. It uses the M
 
 This layer is responsible for routing, delivering and reassembling packets of data. It only deals in IP addresses. It will find the shortest path between two devices to deliver data using OSPF (Open Shortest Path First) and RIP (Routing Information Protocol).
 
-## Layer 4 - Transport 
+## Layer 4 - Transport
 
-This layer describes how data is actually transmitted between two devices. Data travels through one of two protocols: 
+This layer describes how data is actually transmitted between two devices. Data travels through one of two protocols:
 
 * TCP (Transmission Control Protocol): it delivers data reliably albeit slower
 * UDP (User Datagram Protocol)       : it delivers data rapidly but with no guarantee of completeness

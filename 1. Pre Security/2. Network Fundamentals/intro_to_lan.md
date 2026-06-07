@@ -33,7 +33,6 @@ Typically, a device will broadcast an *ARP request* on the network such as "Who 
 DHCP stands for Dynamic Host Configuration Protocol. It is used when connecting a device to a network :
 
 1) DHCP Discover: if the device has not been manually assigned an IP address, it sends a request on the network trying to reach out a DHCP server
-2) DHCP Offer:    the DHCP server responds with an IP address for the device to use
-3) DHCP Request:  the device replies to the server, confirming the use of the IP address
-4) DHCP ACK:      the DHCP server acknowledges the use of the IP address by the device
-
+2) DHCP Offer   : the DHCP server responds with an IP address for the device to use
+3) DHCP Request : the device replies to the server, confirming the use of the IP address
+4) DHCP ACK     : the DHCP server acknowledges the use of the IP address by the device
